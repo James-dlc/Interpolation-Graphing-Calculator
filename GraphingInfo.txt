@@ -1,0 +1,35 @@
+==============================================
+Instructions for graphing polynomial functions
+==============================================
+
+Importing Data:
+	1) Create a spreadsheet file with the extension .xls or .xlsx 
+	2) Add coefficients into the “A” column
+	3) Add degrees into the “B” column
+	4) Save the spreadsheet file
+	5) Click on the button titled “Import Data”
+	6) A file selector prompt will display
+	7) Select a spreadsheet with the extension .xls or .xlsx
+	8) A message will display if the import is successful
+	9) If the import is unsuccessful, a message will display the reason
+	10) To erase the imported data, click on the button titled “Clear”
+
+Graphing using imported data:
+	1) Import the data from a spreadsheet file with the extension .xls or .xlsx
+	2) Add graph and axis title if necessary
+	3) Edit the precision if necessary
+	4) Customize the plot if needed such as with grid and dark mode
+	5) Click on “New Graph” to graph the function in a new plot
+	6) Click on “Add Equation” to add the function to an existing plot
+	7) Compute the roots of the polynomial if necessary
+	8) Edit the x-window values accordingly to fit
+
+Graphing using the interface provided:
+	1) Enter coefficients if a degree is present, else type in “0”
+	2) Add graph and axis title if necessary
+	3) Edit the precision if necessary
+	4) Customize the plot if needed such as with grid and dark mode
+	5) Click on “New Graph” to graph the function in a new plot
+	6) Click on “Add Equation” to add the function to an existing plot
+	7) Compute the roots of the polynomial if necessary
+	8) Edit the x-window values accordingly to fit
